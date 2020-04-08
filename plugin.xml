@@ -9,7 +9,7 @@
     <engine name="cordova" version=">=3.4.0"/>
   </engines>
 
-  <asset src="www/sharewishes.js" target="js/sharewishes.js"/>
+  
 
   <js-module src="www/sharewishes.js" name="sharewishes">
     <clobbers target="sharewishes" />
